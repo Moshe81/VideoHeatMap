@@ -101,8 +101,11 @@ Now to rename MosheVideoHeatMap18112024.html to index.html and to locate it in
 Git Vommand
 cd C:\Users\moshira\VideoHeatMap\
 git checkout new-branch-name
+
 git add index.html (After put the update file)
+
 git commit -m "Add index.html to the repository"
+
 git push origin new-branch-name
 
 
